@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="logo">Член</string>
+    <string name="hint_user">Введите город</string>
+    <string name="button">Показать</string>
+    <string name="no_input">Введи текст дебил</string>
+</resources>
